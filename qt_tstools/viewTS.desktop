@@ -2,7 +2,7 @@
 Categories=Accessibility;Qt;Utility;
 Exec=viewTS
 Name=viewTS
-Name[zh_CN]=NotePad--
+Name[zh_CN]=viewTS
 Icon=viewTS
 StartupNotify=false
 Terminal=false
