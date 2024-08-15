@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=viewTS
+Name=viewTS
+Name[zh_CN]=NotePad--
+Icon=viewTS
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=viewTS
+Version=1.2.0

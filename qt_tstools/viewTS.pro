@@ -46,4 +46,11 @@ linux {
   INCLUDEPATH += $$PWD/../bin/linux
   DEPENDPATH += $$PWD/../bin/linux
   # TODO CONFIG  += static
+target.path = $$PREFIX/bin
+desktop.files = viewTS.desktop
+desktop.path = $$PREFIX/share/applications/
+icons.path = $$PREFIX/share/icons
+icons.files = viewTS.png
+
+INSTALLS += target desktop icons
 }
